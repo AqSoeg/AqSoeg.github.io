@@ -6,7 +6,7 @@
   <link href="https://moonlight-noodles.cn/atom.xml" rel="self"/>
   
   <link href="https://moonlight-noodles.cn/"/>
-  <updated>2022-01-27T16:17:41.831Z</updated>
+  <updated>2022-01-27T16:23:31.320Z</updated>
   <id>https://moonlight-noodles.cn/</id>
   
   <author>
@@ -21,29 +21,11 @@
     <link href="https://moonlight-noodles.cn/2022/01/28/DS-Trie/"/>
     <id>https://moonlight-noodles.cn/2022/01/28/DS-Trie/</id>
     <published>2022-01-27T16:17:41.000Z</published>
-    <updated>2022-01-27T16:17:41.831Z</updated>
+    <updated>2022-01-27T16:23:31.320Z</updated>
     
     
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>数据结构 - Trie</title>
-    <link href="https://moonlight-noodles.cn/2022/01/28/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Trie/"/>
-    <id>https://moonlight-noodles.cn/2022/01/28/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Trie/</id>
-    <published>2022-01-27T16:17:41.000Z</published>
-    <updated>2022-01-27T16:21:22.600Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;trie&lt;/strong&gt;，又称&lt;strong&gt;前缀树&lt;/strong&gt;或&lt;strong&gt;字典树&lt;/strong&gt;，是一种有序树，用来保存关联数组，其中的键通常是字符串。是一种高效的存储和查找字符串的数据结构。&lt;br&gt;&lt;img src=&quot;https://twpower.github.io/images/20190804_186/trie-example-base.png&quot; alt=&quot;trie.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;如图所示，如果我想要查找是否有 &lt;em&gt;cat&lt;/em&gt; 这个单词，只需要沿着 c -&amp;gt; a -&amp;gt; t 这条路径走。如果路径上有某个结点不存在，则说明不存在这个单词。&lt;br&gt;另外，如果存在某个单词，我们也需要给这个单词最后的那个结点打上一个标记，表示从根节点走到&lt;strong&gt;这个结点&lt;/strong&gt;的路径是一个单词。&lt;/p&gt;</summary>
     
     
     
