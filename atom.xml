@@ -6,7 +6,7 @@
   <link href="https://moonlight-noodles.cn/atom.xml" rel="self"/>
   
   <link href="https://moonlight-noodles.cn/"/>
-  <updated>2022-01-27T16:26:30.664Z</updated>
+  <updated>2022-01-28T01:58:55.465Z</updated>
   <id>https://moonlight-noodles.cn/</id>
   
   <author>
@@ -21,11 +21,10 @@
     <link href="https://moonlight-noodles.cn/2022/01/28/DS-Trie/"/>
     <id>https://moonlight-noodles.cn/2022/01/28/DS-Trie/</id>
     <published>2022-01-27T16:17:41.000Z</published>
-    <updated>2022-01-27T16:26:30.664Z</updated>
+    <updated>2022-01-28T01:58:55.465Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;trie&lt;/strong&gt;，又称&lt;strong&gt;前缀树&lt;/strong&gt;或&lt;strong&gt;字典树&lt;/strong&gt;，是一种有序树，用来保存关联数组，其中的键通常是字符串。是一种高效的存储和查找字符串的数据结构。&lt;br&gt;&lt;img src=&quot;https://twpower.github.io/images/20190804_186/trie-example-base.png&quot; alt=&quot;trie.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;如图所示，如果我想要查找是否有 &lt;em&gt;cat&lt;/em&gt; 这个单词，只需要沿着 c -&amp;gt; a -&amp;gt; t 这条路径走。如果路径上有某个结点不存在，则说明不存在这个单词。&lt;br&gt;另外，如果存在某个单词，我们也需要给这个单词最后的那个结点打上一个标记，表示从根节点走到&lt;strong&gt;这个结点&lt;/strong&gt;的路径是一个单词。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;trie&lt;/strong&gt;，又称&lt;strong&gt;前缀树&lt;/strong&gt;或&lt;strong&gt;字典树&lt;/strong&gt;，是一种有序树，用来保存关联数组，其中的键通常是字符串。是一种高效的存储和查找字符串的数据结构。&lt;/p&gt;</summary>
     
     
     
@@ -86,11 +85,11 @@
     <link href="https://moonlight-noodles.cn/2021/08/01/kaoyan/"/>
     <id>https://moonlight-noodles.cn/2021/08/01/kaoyan/</id>
     <published>2021-08-01T15:14:21.000Z</published>
-    <updated>2021-12-31T16:10:14.472Z</updated>
+    <updated>2022-02-23T12:15:23.460Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;我的考研记录&lt;/p&gt;
+&lt;p&gt;我的22考研记录&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;今天是2021年8月1日。从三月份开始准备，到现在考研进程也已过半。&lt;/p&gt;
 &lt;p&gt;想着不妨写些东西，一是对前半段的复盘，二是督促自己，三是给以后留个回忆。&lt;/p&gt;</summary>
